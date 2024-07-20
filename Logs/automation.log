@@ -1,0 +1,3252 @@
+2024-06-27 17:44:22,685 - root - INFO - ******************* Test_001_Login **************************
+2024-06-27 17:44:22,722 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-27 17:44:25,165 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-27 17:44:29,927 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-06-27 17:44:34,182 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-27 17:44:38,865 - root - INFO - ************** Test login Title Passed *******************
+2024-06-27 18:10:42,383 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-06-27 18:11:50,708 - root - INFO - ******************* Test_001_Login **************************
+2024-06-27 18:11:50,728 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-27 18:11:50,809 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-27 18:15:36,648 - root - INFO - ******************* Test_001_Login **************************
+2024-06-27 18:15:36,660 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-27 18:15:39,176 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-27 18:15:49,326 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-27 18:16:00,013 - root - INFO - ************** Test login Title Passed *******************
+2024-06-27 18:18:03,385 - root - INFO - ******************* Test_001_Login **************************
+2024-06-27 18:18:03,407 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-27 18:18:06,613 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-27 18:18:17,830 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-27 18:18:26,501 - root - INFO - ************** Test login Title Passed *******************
+2024-06-28 10:53:32,008 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 10:53:32,023 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 10:53:32,237 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-28 10:53:58,471 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 10:53:58,553 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 10:54:17,615 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-28 10:54:27,570 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-28 10:54:34,896 - root - INFO - ************** Test login Title Passed *******************
+2024-06-28 10:56:56,796 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 10:56:56,827 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 10:56:59,203 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-28 10:57:08,368 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-28 10:57:14,688 - root - INFO - ************** Test login Title Passed *******************
+2024-06-28 10:58:21,512 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 10:58:21,525 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 11:06:37,058 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 11:06:37,076 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 11:06:39,380 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-28 11:06:43,032 - root - INFO - ************** Test login Title Passed *******************
+2024-06-28 11:07:20,412 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 11:07:20,426 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 11:07:22,619 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-28 11:07:24,885 - root - INFO - ************** Test login Title Passed *******************
+2024-06-28 12:09:42,210 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-28 12:09:48,970 - root - INFO - ************** Test login Title Passed *******************
+2024-06-28 12:09:50,220 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 12:09:50,224 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 12:09:52,436 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-28 12:10:47,331 - root - INFO - ******************* Test_001_Login **************************
+2024-06-28 12:10:47,364 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-28 12:10:48,029 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-28 12:10:48,605 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-28 12:10:52,658 - root - INFO - ************** Test login Title Passed *******************
+2024-06-28 15:57:27,292 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 15:57:27,301 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:03:14,044 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:03:14,052 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:05:34,204 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:05:34,213 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:10:59,190 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:10:59,196 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:13:32,277 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:13:32,310 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:19:18,041 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:19:18,051 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:19:25,967 - root - INFO - ************** Passes *******************
+2024-06-28 16:22:04,669 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:22:04,675 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:22:12,342 - root - INFO - ************** Passes *******************
+2024-06-28 16:28:11,852 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:28:11,939 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:28:20,885 - root - INFO - ************** Passes *******************
+2024-06-28 16:29:33,410 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-28 16:29:33,460 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-28 16:29:42,194 - root - INFO - ************** Passes *******************
+2024-06-29 17:02:53,705 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 17:02:53,712 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 17:03:03,626 - root - INFO - ************** Passes *******************
+2024-06-29 17:46:37,677 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 17:46:37,693 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 17:46:56,747 - root - INFO - ************** Passed *******************
+2024-06-29 17:48:20,580 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 17:48:20,590 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 17:48:31,798 - root - INFO - ************** Passed *******************
+2024-06-29 18:15:08,291 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:15:08,319 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:15:21,453 - root - INFO - ************** Passed *******************
+2024-06-29 18:22:53,815 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:22:53,825 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:23:04,576 - root - INFO - ************** Passed *******************
+2024-06-29 18:24:28,267 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:24:28,276 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:24:39,838 - root - INFO - ************** Passed *******************
+2024-06-29 18:26:57,541 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:26:57,549 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:27:08,490 - root - INFO - ************** Passed *******************
+2024-06-29 18:28:25,893 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:28:25,909 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:28:35,436 - root - INFO - ************** Passed *******************
+2024-06-29 18:30:45,040 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:30:45,046 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:30:57,939 - root - INFO - ************** Passed *******************
+2024-06-29 18:31:05,179 - root - INFO - ************** Passes *******************
+2024-06-29 18:37:59,095 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:37:59,113 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:42:26,637 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:42:26,649 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:42:51,113 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:43:12,424 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:43:33,697 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:43:54,988 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:43:54,988 - root - INFO - *** Login DDT test Failed ***
+2024-06-29 18:46:21,765 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:46:21,775 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:46:46,314 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:47:07,764 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:47:29,183 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:47:50,612 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF73C02EEA2+31554]
+	(No symbol) [0x00007FF73BFA7ED9]
+	(No symbol) [0x00007FF73BE6872A]
+	(No symbol) [0x00007FF73BEB8434]
+	(No symbol) [0x00007FF73BEB853C]
+	(No symbol) [0x00007FF73BEFF6A7]
+	(No symbol) [0x00007FF73BEDD06F]
+	(No symbol) [0x00007FF73BEFC977]
+	(No symbol) [0x00007FF73BEDCDD3]
+	(No symbol) [0x00007FF73BEAA33B]
+	(No symbol) [0x00007FF73BEAAED1]
+	GetHandleVerifier [0x00007FF73C338B1D+3217341]
+	GetHandleVerifier [0x00007FF73C385AE3+3532675]
+	GetHandleVerifier [0x00007FF73C37B0E0+3489152]
+	GetHandleVerifier [0x00007FF73C0DE776+750614]
+	(No symbol) [0x00007FF73BFB375F]
+	(No symbol) [0x00007FF73BFAEB14]
+	(No symbol) [0x00007FF73BFAECA2]
+	(No symbol) [0x00007FF73BF9E16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:47:50,685 - root - INFO - *** Login DDT test Failed ***
+2024-06-29 18:58:43,557 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-29 18:58:43,566 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-29 18:59:08,108 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78D76EEA2+31554]
+	(No symbol) [0x00007FF78D6E7ED9]
+	(No symbol) [0x00007FF78D5A872A]
+	(No symbol) [0x00007FF78D5F8434]
+	(No symbol) [0x00007FF78D5F853C]
+	(No symbol) [0x00007FF78D63F6A7]
+	(No symbol) [0x00007FF78D61D06F]
+	(No symbol) [0x00007FF78D63C977]
+	(No symbol) [0x00007FF78D61CDD3]
+	(No symbol) [0x00007FF78D5EA33B]
+	(No symbol) [0x00007FF78D5EAED1]
+	GetHandleVerifier [0x00007FF78DA78B1D+3217341]
+	GetHandleVerifier [0x00007FF78DAC5AE3+3532675]
+	GetHandleVerifier [0x00007FF78DABB0E0+3489152]
+	GetHandleVerifier [0x00007FF78D81E776+750614]
+	(No symbol) [0x00007FF78D6F375F]
+	(No symbol) [0x00007FF78D6EEB14]
+	(No symbol) [0x00007FF78D6EECA2]
+	(No symbol) [0x00007FF78D6DE16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:59:29,561 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78D76EEA2+31554]
+	(No symbol) [0x00007FF78D6E7ED9]
+	(No symbol) [0x00007FF78D5A872A]
+	(No symbol) [0x00007FF78D5F8434]
+	(No symbol) [0x00007FF78D5F853C]
+	(No symbol) [0x00007FF78D63F6A7]
+	(No symbol) [0x00007FF78D61D06F]
+	(No symbol) [0x00007FF78D63C977]
+	(No symbol) [0x00007FF78D61CDD3]
+	(No symbol) [0x00007FF78D5EA33B]
+	(No symbol) [0x00007FF78D5EAED1]
+	GetHandleVerifier [0x00007FF78DA78B1D+3217341]
+	GetHandleVerifier [0x00007FF78DAC5AE3+3532675]
+	GetHandleVerifier [0x00007FF78DABB0E0+3489152]
+	GetHandleVerifier [0x00007FF78D81E776+750614]
+	(No symbol) [0x00007FF78D6F375F]
+	(No symbol) [0x00007FF78D6EEB14]
+	(No symbol) [0x00007FF78D6EECA2]
+	(No symbol) [0x00007FF78D6DE16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 18:59:50,979 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78D76EEA2+31554]
+	(No symbol) [0x00007FF78D6E7ED9]
+	(No symbol) [0x00007FF78D5A872A]
+	(No symbol) [0x00007FF78D5F8434]
+	(No symbol) [0x00007FF78D5F853C]
+	(No symbol) [0x00007FF78D63F6A7]
+	(No symbol) [0x00007FF78D61D06F]
+	(No symbol) [0x00007FF78D63C977]
+	(No symbol) [0x00007FF78D61CDD3]
+	(No symbol) [0x00007FF78D5EA33B]
+	(No symbol) [0x00007FF78D5EAED1]
+	GetHandleVerifier [0x00007FF78DA78B1D+3217341]
+	GetHandleVerifier [0x00007FF78DAC5AE3+3532675]
+	GetHandleVerifier [0x00007FF78DABB0E0+3489152]
+	GetHandleVerifier [0x00007FF78D81E776+750614]
+	(No symbol) [0x00007FF78D6F375F]
+	(No symbol) [0x00007FF78D6EEB14]
+	(No symbol) [0x00007FF78D6EECA2]
+	(No symbol) [0x00007FF78D6DE16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 19:00:12,372 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF78D76EEA2+31554]
+	(No symbol) [0x00007FF78D6E7ED9]
+	(No symbol) [0x00007FF78D5A872A]
+	(No symbol) [0x00007FF78D5F8434]
+	(No symbol) [0x00007FF78D5F853C]
+	(No symbol) [0x00007FF78D63F6A7]
+	(No symbol) [0x00007FF78D61D06F]
+	(No symbol) [0x00007FF78D63C977]
+	(No symbol) [0x00007FF78D61CDD3]
+	(No symbol) [0x00007FF78D5EA33B]
+	(No symbol) [0x00007FF78D5EAED1]
+	GetHandleVerifier [0x00007FF78DA78B1D+3217341]
+	GetHandleVerifier [0x00007FF78DAC5AE3+3532675]
+	GetHandleVerifier [0x00007FF78DABB0E0+3489152]
+	GetHandleVerifier [0x00007FF78D81E776+750614]
+	(No symbol) [0x00007FF78D6F375F]
+	(No symbol) [0x00007FF78D6EEB14]
+	(No symbol) [0x00007FF78D6EECA2]
+	(No symbol) [0x00007FF78D6DE16F]
+	BaseThreadInitThunk [0x00007FFBEE977344+20]
+	RtlUserThreadStart [0x00007FFBEF7226B1+33]
+
+2024-06-29 19:00:12,551 - root - INFO - *** Login DDT test Failed ***
+2024-06-30 23:05:11,244 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-06-30 23:05:11,256 - root - INFO - ************** Verifying login DDT Test *******************
+2024-06-30 23:05:36,291 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71D13EEA2+31554]
+	(No symbol) [0x00007FF71D0B7ED9]
+	(No symbol) [0x00007FF71CF7872A]
+	(No symbol) [0x00007FF71CFC8434]
+	(No symbol) [0x00007FF71CFC853C]
+	(No symbol) [0x00007FF71D00F6A7]
+	(No symbol) [0x00007FF71CFED06F]
+	(No symbol) [0x00007FF71D00C977]
+	(No symbol) [0x00007FF71CFECDD3]
+	(No symbol) [0x00007FF71CFBA33B]
+	(No symbol) [0x00007FF71CFBAED1]
+	GetHandleVerifier [0x00007FF71D448B1D+3217341]
+	GetHandleVerifier [0x00007FF71D495AE3+3532675]
+	GetHandleVerifier [0x00007FF71D48B0E0+3489152]
+	GetHandleVerifier [0x00007FF71D1EE776+750614]
+	(No symbol) [0x00007FF71D0C375F]
+	(No symbol) [0x00007FF71D0BEB14]
+	(No symbol) [0x00007FF71D0BECA2]
+	(No symbol) [0x00007FF71D0AE16F]
+	BaseThreadInitThunk [0x00007FFFB2B57344+20]
+	RtlUserThreadStart [0x00007FFFB3B226B1+33]
+
+2024-06-30 23:05:57,704 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71D13EEA2+31554]
+	(No symbol) [0x00007FF71D0B7ED9]
+	(No symbol) [0x00007FF71CF7872A]
+	(No symbol) [0x00007FF71CFC8434]
+	(No symbol) [0x00007FF71CFC853C]
+	(No symbol) [0x00007FF71D00F6A7]
+	(No symbol) [0x00007FF71CFED06F]
+	(No symbol) [0x00007FF71D00C977]
+	(No symbol) [0x00007FF71CFECDD3]
+	(No symbol) [0x00007FF71CFBA33B]
+	(No symbol) [0x00007FF71CFBAED1]
+	GetHandleVerifier [0x00007FF71D448B1D+3217341]
+	GetHandleVerifier [0x00007FF71D495AE3+3532675]
+	GetHandleVerifier [0x00007FF71D48B0E0+3489152]
+	GetHandleVerifier [0x00007FF71D1EE776+750614]
+	(No symbol) [0x00007FF71D0C375F]
+	(No symbol) [0x00007FF71D0BEB14]
+	(No symbol) [0x00007FF71D0BECA2]
+	(No symbol) [0x00007FF71D0AE16F]
+	BaseThreadInitThunk [0x00007FFFB2B57344+20]
+	RtlUserThreadStart [0x00007FFFB3B226B1+33]
+
+2024-06-30 23:06:19,066 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71D13EEA2+31554]
+	(No symbol) [0x00007FF71D0B7ED9]
+	(No symbol) [0x00007FF71CF7872A]
+	(No symbol) [0x00007FF71CFC8434]
+	(No symbol) [0x00007FF71CFC853C]
+	(No symbol) [0x00007FF71D00F6A7]
+	(No symbol) [0x00007FF71CFED06F]
+	(No symbol) [0x00007FF71D00C977]
+	(No symbol) [0x00007FF71CFECDD3]
+	(No symbol) [0x00007FF71CFBA33B]
+	(No symbol) [0x00007FF71CFBAED1]
+	GetHandleVerifier [0x00007FF71D448B1D+3217341]
+	GetHandleVerifier [0x00007FF71D495AE3+3532675]
+	GetHandleVerifier [0x00007FF71D48B0E0+3489152]
+	GetHandleVerifier [0x00007FF71D1EE776+750614]
+	(No symbol) [0x00007FF71D0C375F]
+	(No symbol) [0x00007FF71D0BEB14]
+	(No symbol) [0x00007FF71D0BECA2]
+	(No symbol) [0x00007FF71D0AE16F]
+	BaseThreadInitThunk [0x00007FFFB2B57344+20]
+	RtlUserThreadStart [0x00007FFFB3B226B1+33]
+
+2024-06-30 23:06:40,616 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71D13EEA2+31554]
+	(No symbol) [0x00007FF71D0B7ED9]
+	(No symbol) [0x00007FF71CF7872A]
+	(No symbol) [0x00007FF71CFC8434]
+	(No symbol) [0x00007FF71CFC853C]
+	(No symbol) [0x00007FF71D00F6A7]
+	(No symbol) [0x00007FF71CFED06F]
+	(No symbol) [0x00007FF71D00C977]
+	(No symbol) [0x00007FF71CFECDD3]
+	(No symbol) [0x00007FF71CFBA33B]
+	(No symbol) [0x00007FF71CFBAED1]
+	GetHandleVerifier [0x00007FF71D448B1D+3217341]
+	GetHandleVerifier [0x00007FF71D495AE3+3532675]
+	GetHandleVerifier [0x00007FF71D48B0E0+3489152]
+	GetHandleVerifier [0x00007FF71D1EE776+750614]
+	(No symbol) [0x00007FF71D0C375F]
+	(No symbol) [0x00007FF71D0BEB14]
+	(No symbol) [0x00007FF71D0BECA2]
+	(No symbol) [0x00007FF71D0AE16F]
+	BaseThreadInitThunk [0x00007FFFB2B57344+20]
+	RtlUserThreadStart [0x00007FFFB3B226B1+33]
+
+2024-06-30 23:06:40,754 - root - INFO - *** Login DDT test Failed ***
+2024-06-30 23:07:45,565 - root - INFO - ************** Verifying Test login Title *******************
+2024-06-30 23:07:45,573 - root - INFO - ************** Verifying Home Page Title *******************
+2024-06-30 23:07:47,972 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-06-30 23:07:58,129 - root - INFO - ************** Test login Title Passed *******************
+2024-07-02 15:44:35,738 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 15:44:43,938 - root - INFO - ********* Login successful **********
+2024-07-02 15:44:43,938 - root - INFO - ********* Start Add customer test *********
+2024-07-02 15:44:47,997 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 15:47:14,115 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 15:47:23,747 - root - INFO - ********* Login successful **********
+2024-07-02 15:47:23,747 - root - INFO - ********* Start Add customer test *********
+2024-07-02 15:47:26,992 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 15:50:45,106 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 15:50:52,062 - root - INFO - ********* Login successful **********
+2024-07-02 15:50:52,062 - root - INFO - ********* Start Add customer test *********
+2024-07-02 15:50:55,038 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 15:55:24,684 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 15:55:32,189 - root - INFO - ********* Login successful **********
+2024-07-02 15:55:32,189 - root - INFO - ********* Start Add customer test *********
+2024-07-02 15:55:36,401 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 15:57:58,971 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 15:58:08,202 - root - INFO - ********* Login successful **********
+2024-07-02 15:58:08,202 - root - INFO - ********* Start Add customer test *********
+2024-07-02 15:58:16,905 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 15:59:35,402 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 15:59:41,910 - root - INFO - ********* Login successful **********
+2024-07-02 15:59:41,913 - root - INFO - ********* Start Add customer test *********
+2024-07-02 15:59:49,756 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:05:14,262 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:05:21,723 - root - INFO - ********* Login successful **********
+2024-07-02 16:05:21,723 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:05:29,389 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:06:43,839 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:06:50,868 - root - INFO - ********* Login successful **********
+2024-07-02 16:06:50,868 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:07:03,050 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:10:04,928 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:10:12,522 - root - INFO - ********* Login successful **********
+2024-07-02 16:10:12,522 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:10:23,274 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:13:28,268 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:13:39,078 - root - INFO - ********* Login successful **********
+2024-07-02 16:13:39,078 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:13:55,185 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:14:59,328 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:15:06,218 - root - INFO - ********* Login successful **********
+2024-07-02 16:15:06,218 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:15:10,333 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:17:52,283 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:18:00,357 - root - INFO - ********* Login successful **********
+2024-07-02 16:18:00,357 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:18:04,529 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:22:52,251 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:23:01,222 - root - INFO - ********* Login successful **********
+2024-07-02 16:23:01,222 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:23:07,187 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 16:25:40,281 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-02 16:25:40,423 - root - INFO - ******************* Test_001_Login **************************
+2024-07-02 16:25:40,426 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-02 16:25:45,221 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-02 16:25:51,500 - root - INFO - ************** Test login Title Passed *******************
+2024-07-02 16:27:15,002 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 16:27:21,560 - root - INFO - ********* Login successful **********
+2024-07-02 16:27:21,560 - root - INFO - ********* Start Add customer test *********
+2024-07-02 16:27:25,865 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 17:41:33,548 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 17:41:43,099 - root - INFO - ********* Login successful **********
+2024-07-02 17:41:43,100 - root - INFO - ********* Start Add customer test *********
+2024-07-02 17:41:49,021 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 17:42:16,335 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 17:42:32,719 - root - INFO - ********* Login successful **********
+2024-07-02 17:42:32,719 - root - INFO - ********* Start Add customer test *********
+2024-07-02 17:42:40,674 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 17:44:55,590 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 17:45:04,288 - root - INFO - ********* Login successful **********
+2024-07-02 17:45:04,289 - root - INFO - ********* Start Add customer test *********
+2024-07-02 17:45:07,511 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 17:49:55,773 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 17:50:05,864 - root - INFO - ********* Login successful **********
+2024-07-02 17:50:05,865 - root - INFO - ********* Start Add customer test *********
+2024-07-02 17:50:10,382 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 17:54:18,867 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 17:54:34,022 - root - INFO - ********* Login successful **********
+2024-07-02 17:54:34,022 - root - INFO - ********* Start Add customer test *********
+2024-07-02 17:54:44,482 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 18:08:27,169 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 18:08:54,436 - root - INFO - ********* Login successful **********
+2024-07-02 18:08:54,436 - root - INFO - ********* Start Add customer test *********
+2024-07-02 18:09:28,250 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 18:09:56,285 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 18:11:13,713 - root - INFO - ********* Login successful **********
+2024-07-02 18:11:13,713 - root - INFO - ********* Start Add customer test *********
+2024-07-02 18:11:37,244 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 18:13:28,205 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 18:13:42,315 - root - INFO - ********* Login successful **********
+2024-07-02 18:13:42,315 - root - INFO - ********* Start Add customer test *********
+2024-07-02 18:13:58,215 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 18:15:35,257 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 18:17:16,031 - root - INFO - ********* Login successful **********
+2024-07-02 18:17:16,031 - root - INFO - ********* Start Add customer test *********
+2024-07-02 18:17:39,833 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 18:41:14,442 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 18:41:31,196 - root - INFO - ********* Login successful **********
+2024-07-02 18:41:31,196 - root - INFO - ********* Start Add customer test *********
+2024-07-02 18:41:46,904 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 18:45:03,520 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 18:45:24,435 - root - INFO - ********* Login successful **********
+2024-07-02 18:45:24,435 - root - INFO - ********* Start Add customer test *********
+2024-07-02 18:51:22,854 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 18:51:31,959 - root - INFO - ********* Login successful **********
+2024-07-02 18:51:31,959 - root - INFO - ********* Start Add customer test *********
+2024-07-02 18:51:36,224 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 19:01:03,595 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 19:01:40,323 - root - INFO - ********* Login successful **********
+2024-07-02 19:01:40,329 - root - INFO - ********* Start Add customer test *********
+2024-07-02 19:02:15,884 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 19:06:49,111 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 19:07:38,928 - root - INFO - ********* Login successful **********
+2024-07-02 19:07:38,932 - root - INFO - ********* Start Add customer test *********
+2024-07-02 19:09:01,464 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 19:10:22,696 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 19:11:27,916 - root - INFO - ********* Login successful **********
+2024-07-02 19:11:27,916 - root - INFO - ********* Start Add customer test *********
+2024-07-02 19:12:38,643 - root - INFO - ***** Providing cutomer info **********
+2024-07-02 19:30:32,904 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-02 19:32:11,880 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 13:20:06,727 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 13:20:14,828 - root - INFO - ********* Login successful **********
+2024-07-04 13:20:14,828 - root - INFO - ********* Start Add customer test *********
+2024-07-04 13:20:19,433 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 13:20:31,442 - root - INFO - ***** Saving customer information *****
+2024-07-04 13:20:31,443 - root - INFO - ******* Add customer validation started *****
+2024-07-04 13:20:31,524 - root - INFO - ****** Add customer test passed ******
+2024-07-04 13:24:42,414 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 13:24:47,390 - root - INFO - ********* Login successful **********
+2024-07-04 13:24:47,390 - root - INFO - ********* Start Add customer test *********
+2024-07-04 13:24:50,127 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 13:30:53,952 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 13:31:14,565 - root - INFO - ********* Login successful **********
+2024-07-04 13:31:14,565 - root - INFO - ********* Start Add customer test *********
+2024-07-04 13:33:06,353 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 13:33:18,610 - root - INFO - ***** Saving customer information *****
+2024-07-04 13:33:18,610 - root - INFO - ******* Add customer validation started *****
+2024-07-04 13:33:18,711 - root - INFO - ****** Add customer test passed ******
+2024-07-04 13:36:22,587 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 13:36:32,282 - root - INFO - ********* Login successful **********
+2024-07-04 13:36:32,282 - root - INFO - ********* Start Add customer test *********
+2024-07-04 13:36:34,946 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 13:37:09,669 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 13:37:14,056 - root - INFO - ********* Login successful **********
+2024-07-04 13:37:14,056 - root - INFO - ********* Start Add customer test *********
+2024-07-04 13:37:16,525 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 13:39:44,314 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 13:40:51,968 - root - INFO - ********* Login successful **********
+2024-07-04 13:40:51,968 - root - INFO - ********* Start Add customer test *********
+2024-07-04 13:41:35,130 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 13:41:47,513 - root - INFO - ***** Saving customer information *****
+2024-07-04 13:41:47,513 - root - INFO - ******* Add customer validation started *****
+2024-07-04 13:41:47,624 - root - INFO - ****** Add customer test passed ******
+2024-07-04 16:03:50,009 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:04:32,374 - root - INFO - ********* Login successful **********
+2024-07-04 16:04:32,374 - root - INFO - ********* Start Add customer test *********
+2024-07-04 16:04:37,934 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:06:56,156 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:07:01,425 - root - INFO - ********* Login successful **********
+2024-07-04 16:07:01,425 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:07:03,329 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:11:53,502 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:12:28,375 - root - INFO - ********* Login successful **********
+2024-07-04 16:12:28,375 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:12:30,370 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:20:12,610 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:20:17,969 - root - INFO - ********* Login successful **********
+2024-07-04 16:20:17,970 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:20:19,814 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:22:11,027 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:22:16,130 - root - INFO - ********* Login successful **********
+2024-07-04 16:22:16,130 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:22:18,018 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:22:23,241 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 16:24:47,908 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:24:53,157 - root - INFO - ********* Login successful **********
+2024-07-04 16:24:53,157 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:25:41,849 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:25:46,837 - root - INFO - ********* Login successful **********
+2024-07-04 16:25:46,837 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:25:50,333 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:25:55,971 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 16:27:50,525 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:27:55,806 - root - INFO - ********* Login successful **********
+2024-07-04 16:27:55,807 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:27:57,703 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:28:03,344 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 16:31:11,446 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:31:15,569 - root - INFO - ********* Login successful **********
+2024-07-04 16:31:15,569 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:31:17,504 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:35:05,232 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:35:10,235 - root - INFO - ********* Login successful **********
+2024-07-04 16:35:10,235 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:35:12,196 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:35:17,364 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 16:38:37,242 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:38:42,268 - root - INFO - ********* Login successful **********
+2024-07-04 16:38:42,268 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:38:44,141 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:39:58,343 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:40:03,664 - root - INFO - ********* Login successful **********
+2024-07-04 16:40:03,664 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:40:05,620 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:44:16,057 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:44:21,052 - root - INFO - ********* Login successful **********
+2024-07-04 16:44:21,052 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:44:22,963 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:45:59,368 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:46:03,720 - root - INFO - ********* Login successful **********
+2024-07-04 16:46:03,720 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:46:04,754 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:46:51,029 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:46:56,037 - root - INFO - ********* Login successful **********
+2024-07-04 16:46:56,037 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:46:58,047 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 16:47:03,641 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 16:47:32,656 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:47:37,901 - root - INFO - ********* Login successful **********
+2024-07-04 16:47:37,901 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:47:39,770 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:52:58,196 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:53:03,222 - root - INFO - ********* Login successful **********
+2024-07-04 16:53:03,222 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:53:05,108 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:54:55,892 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:55:01,142 - root - INFO - ********* Login successful **********
+2024-07-04 16:55:01,142 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:55:03,065 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:55:43,239 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:55:47,621 - root - INFO - ********* Login successful **********
+2024-07-04 16:55:47,622 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:55:49,572 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:55:54,795 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-04 16:57:01,089 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 16:57:06,249 - root - INFO - ********* Login successful **********
+2024-07-04 16:57:06,249 - root - INFO - ********* Start Search customer test *********
+2024-07-04 16:57:08,207 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 16:57:13,846 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-04 16:58:01,868 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 16:58:01,868 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 16:58:01,868 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 16:58:01,868 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 16:58:01,868 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 16:58:06,754 - root - INFO - ********* Login successful **********
+2024-07-04 16:58:06,754 - root - INFO - ********* Login successful **********
+2024-07-04 16:58:06,754 - root - INFO - ********* Login successful **********
+2024-07-04 16:58:06,754 - root - INFO - ********* Login successful **********
+2024-07-04 16:58:06,754 - root - INFO - ********* Login successful **********
+2024-07-04 16:58:06,754 - root - INFO - ********* Start Add customer test *********
+2024-07-04 16:58:06,754 - root - INFO - ********* Start Add customer test *********
+2024-07-04 16:58:06,754 - root - INFO - ********* Start Add customer test *********
+2024-07-04 16:58:06,754 - root - INFO - ********* Start Add customer test *********
+2024-07-04 16:58:06,754 - root - INFO - ********* Start Add customer test *********
+2024-07-04 16:58:09,279 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 16:58:09,279 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 16:58:09,279 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 16:58:09,279 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 16:58:09,279 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 16:58:16,933 - root - INFO - ******************* Test_001_Login **************************
+2024-07-04 16:58:16,933 - root - INFO - ******************* Test_001_Login **************************
+2024-07-04 16:58:16,933 - root - INFO - ******************* Test_001_Login **************************
+2024-07-04 16:58:16,933 - root - INFO - ******************* Test_001_Login **************************
+2024-07-04 16:58:16,933 - root - INFO - ******************* Test_001_Login **************************
+2024-07-04 16:58:16,933 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-04 16:58:16,933 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-04 16:58:16,933 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-04 16:58:16,933 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-04 16:58:16,933 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-04 16:58:20,017 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-04 16:58:20,017 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-04 16:58:20,017 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-04 16:58:20,017 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-04 16:58:20,017 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-04 16:58:26,656 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-04 16:58:26,656 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-04 16:58:26,656 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-04 16:58:26,656 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-04 16:58:26,656 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-04 16:58:31,546 - root - INFO - ************** Test login Title Passed *******************
+2024-07-04 16:58:31,546 - root - INFO - ************** Test login Title Passed *******************
+2024-07-04 16:58:31,546 - root - INFO - ************** Test login Title Passed *******************
+2024-07-04 16:58:31,546 - root - INFO - ************** Test login Title Passed *******************
+2024-07-04 16:58:31,546 - root - INFO - ************** Test login Title Passed *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-04 16:58:38,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-04 16:59:01,811 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:01,811 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:01,811 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:01,811 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:01,811 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:23,148 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:23,148 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:23,148 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:23,148 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:23,148 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:44,536 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:44,536 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:44,536 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:44,536 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 16:59:44,536 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 17:00:05,896 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 17:00:05,896 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 17:00:05,896 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 17:00:05,896 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 17:00:05,896 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF684A3EEA2+31554]
+	(No symbol) [0x00007FF6849B7ED9]
+	(No symbol) [0x00007FF68487872A]
+	(No symbol) [0x00007FF6848C8434]
+	(No symbol) [0x00007FF6848C853C]
+	(No symbol) [0x00007FF68490F6A7]
+	(No symbol) [0x00007FF6848ED06F]
+	(No symbol) [0x00007FF68490C977]
+	(No symbol) [0x00007FF6848ECDD3]
+	(No symbol) [0x00007FF6848BA33B]
+	(No symbol) [0x00007FF6848BAED1]
+	GetHandleVerifier [0x00007FF684D48B1D+3217341]
+	GetHandleVerifier [0x00007FF684D95AE3+3532675]
+	GetHandleVerifier [0x00007FF684D8B0E0+3489152]
+	GetHandleVerifier [0x00007FF684AEE776+750614]
+	(No symbol) [0x00007FF6849C375F]
+	(No symbol) [0x00007FF6849BEB14]
+	(No symbol) [0x00007FF6849BECA2]
+	(No symbol) [0x00007FF6849AE16F]
+	BaseThreadInitThunk [0x00007FFAE4D67344+20]
+	RtlUserThreadStart [0x00007FFAE5CC26B1+33]
+
+2024-07-04 17:00:06,000 - root - INFO - *** Login DDT test Failed ***
+2024-07-04 17:00:06,000 - root - INFO - *** Login DDT test Failed ***
+2024-07-04 17:00:06,000 - root - INFO - *** Login DDT test Failed ***
+2024-07-04 17:00:06,000 - root - INFO - *** Login DDT test Failed ***
+2024-07-04 17:00:06,000 - root - INFO - *** Login DDT test Failed ***
+2024-07-04 17:00:13,164 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:13,164 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:13,164 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:13,164 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:13,164 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:17,592 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:17,592 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:17,592 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:17,592 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:17,592 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:17,592 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:17,592 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:17,592 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:17,592 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:17,592 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:19,525 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 17:00:19,525 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 17:00:19,525 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 17:00:19,525 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 17:00:19,525 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-04 17:00:25,115 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 17:00:25,115 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 17:00:25,115 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 17:00:25,115 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 17:00:25,115 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-04 17:00:32,378 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:32,378 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:32,378 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:32,378 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:32,378 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:00:36,639 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:36,639 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:36,639 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:36,639 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:36,639 - root - INFO - ********* Login successful **********
+2024-07-04 17:00:36,639 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:36,639 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:36,639 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:36,639 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:36,639 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:00:37,668 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 17:00:37,668 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 17:00:37,668 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 17:00:37,668 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 17:00:37,668 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 17:00:43,330 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-04 17:00:43,330 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-04 17:00:43,330 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-04 17:00:43,330 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-04 17:00:43,330 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-04 17:05:07,841 - root - INFO - ******************* Test_001_Login **************************
+2024-07-04 17:05:07,858 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-04 17:05:10,931 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-04 17:05:18,027 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-04 17:05:33,942 - root - INFO - ************** Test login Title Passed *******************
+2024-07-04 17:06:47,434 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 17:06:52,551 - root - INFO - ********* Login successful **********
+2024-07-04 17:06:52,551 - root - INFO - ********* Start Add customer test *********
+2024-07-04 17:06:55,307 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 17:08:20,016 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 17:08:26,318 - root - INFO - ********* Login successful **********
+2024-07-04 17:08:26,318 - root - INFO - ********* Start Add customer test *********
+2024-07-04 17:08:27,593 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 17:09:13,600 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-04 17:09:18,675 - root - INFO - ********* Login successful **********
+2024-07-04 17:09:18,675 - root - INFO - ********* Start Add customer test *********
+2024-07-04 17:09:21,169 - root - INFO - ***** Providing cutomer info **********
+2024-07-04 17:11:17,522 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-04 17:11:22,586 - root - INFO - ********* Login successful **********
+2024-07-04 17:11:22,586 - root - INFO - ********* Start Search customer test *********
+2024-07-04 17:11:24,467 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-04 17:11:29,662 - root - INFO - ********* TC_SearchCustomerByFirstName_005 Finished ********
+2024-07-05 12:30:22,203 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:30:22,203 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:30:22,203 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:30:22,203 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:30:22,203 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:30:49,056 - root - INFO - ********* Login successful **********
+2024-07-05 12:30:49,056 - root - INFO - ********* Login successful **********
+2024-07-05 12:30:49,056 - root - INFO - ********* Login successful **********
+2024-07-05 12:30:49,056 - root - INFO - ********* Login successful **********
+2024-07-05 12:30:49,056 - root - INFO - ********* Login successful **********
+2024-07-05 12:30:49,056 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:30:49,056 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:30:49,056 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:30:49,056 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:30:49,056 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:30:52,698 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:30:52,698 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:30:52,698 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:30:52,698 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:30:52,698 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:31:09,604 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:31:09,604 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:31:09,604 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:31:09,604 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:31:09,604 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:31:14,818 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:31:14,818 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:31:14,818 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:31:14,818 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:31:14,818 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:31:29,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:29,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:29,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:29,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:29,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:34,115 - root - INFO - ********* Login successful **********
+2024-07-05 12:31:34,115 - root - INFO - ********* Login successful **********
+2024-07-05 12:31:34,115 - root - INFO - ********* Login successful **********
+2024-07-05 12:31:34,115 - root - INFO - ********* Login successful **********
+2024-07-05 12:31:34,115 - root - INFO - ********* Login successful **********
+2024-07-05 12:31:34,115 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:31:34,115 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:31:34,115 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:31:34,115 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:31:34,115 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:31:36,484 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:31:36,484 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:31:36,484 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:31:36,484 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:31:36,484 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:31:42,645 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:31:42,645 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:31:42,645 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:31:42,645 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:31:42,645 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:31:57,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:57,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:57,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:57,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:31:57,169 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:32:01,777 - root - INFO - ********* Login successful **********
+2024-07-05 12:32:01,777 - root - INFO - ********* Login successful **********
+2024-07-05 12:32:01,777 - root - INFO - ********* Login successful **********
+2024-07-05 12:32:01,777 - root - INFO - ********* Login successful **********
+2024-07-05 12:32:01,777 - root - INFO - ********* Login successful **********
+2024-07-05 12:32:01,777 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:32:01,777 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:32:01,777 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:32:01,777 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:32:01,777 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:32:04,192 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:32:04,192 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:32:04,192 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:32:04,192 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:32:04,192 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:35:44,494 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:35:44,494 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:35:44,494 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:35:44,494 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:35:44,494 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:35:44,552 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:35:44,552 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:35:44,552 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:35:44,552 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:35:44,552 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:35:46,667 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:35:46,667 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:35:46,667 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:35:46,667 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:35:46,667 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:36:00,824 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:36:00,824 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:36:00,824 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:36:00,824 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:36:00,824 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:36:07,435 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:36:07,435 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:36:07,435 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:36:07,435 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:36:07,435 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:36:24,287 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:36:47,464 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:36:47,464 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:36:47,464 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:36:47,464 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:36:47,464 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:09,203 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:09,203 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:09,203 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:09,203 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:09,203 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:31,177 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:31,177 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:31,177 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:31,177 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:31,177 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:53,105 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:53,105 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:53,105 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:53,105 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:53,105 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:37:53,280 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:37:53,280 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:37:53,280 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:37:53,280 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:37:53,280 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:39:45,744 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:39:45,744 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:39:45,744 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:39:45,744 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:39:45,744 - root - INFO - ******************* Test_001_Login **************************
+2024-07-05 12:39:45,789 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:39:45,789 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:39:45,789 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:39:45,789 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:39:45,789 - root - INFO - ************** Verifying Home Page Title *******************
+2024-07-05 12:39:48,107 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:39:48,107 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:39:48,107 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:39:48,107 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:39:48,107 - root - INFO - ************** Home Page Title Test Passed *******************
+2024-07-05 12:40:02,349 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:40:02,349 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:40:02,349 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:40:02,349 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:40:02,349 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:40:08,719 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:40:08,719 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:40:08,719 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:40:08,719 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:40:08,719 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:40:23,872 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-05 12:40:48,374 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:40:48,374 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:40:48,374 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:40:48,374 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:40:48,374 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:10,402 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:10,402 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:10,402 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:10,402 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:10,402 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:32,226 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:32,226 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:32,226 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:32,226 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:32,226 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:54,019 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:54,019 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:54,019 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:54,019 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:54,019 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6E93AEEA2+31554]
+	(No symbol) [0x00007FF6E9327ED9]
+	(No symbol) [0x00007FF6E91E872A]
+	(No symbol) [0x00007FF6E9238434]
+	(No symbol) [0x00007FF6E923853C]
+	(No symbol) [0x00007FF6E927F6A7]
+	(No symbol) [0x00007FF6E925D06F]
+	(No symbol) [0x00007FF6E927C977]
+	(No symbol) [0x00007FF6E925CDD3]
+	(No symbol) [0x00007FF6E922A33B]
+	(No symbol) [0x00007FF6E922AED1]
+	GetHandleVerifier [0x00007FF6E96B8B1D+3217341]
+	GetHandleVerifier [0x00007FF6E9705AE3+3532675]
+	GetHandleVerifier [0x00007FF6E96FB0E0+3489152]
+	GetHandleVerifier [0x00007FF6E945E776+750614]
+	(No symbol) [0x00007FF6E933375F]
+	(No symbol) [0x00007FF6E932EB14]
+	(No symbol) [0x00007FF6E932ECA2]
+	(No symbol) [0x00007FF6E931E16F]
+	BaseThreadInitThunk [0x00007FFF65D97344+20]
+	RtlUserThreadStart [0x00007FFF661226B1+33]
+
+2024-07-05 12:41:54,118 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:41:54,118 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:41:54,118 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:41:54,118 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:41:54,118 - root - INFO - *** Login DDT test Failed ***
+2024-07-05 12:42:09,691 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:09,691 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:09,691 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:09,691 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:09,691 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:14,915 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:14,915 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:14,915 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:14,915 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:14,915 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:14,915 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:14,915 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:14,915 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:14,915 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:14,915 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:17,129 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:42:17,129 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:42:17,129 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:42:17,129 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:42:17,129 - root - INFO - ***** Searching customer by EmailID **********
+2024-07-05 12:42:23,285 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:42:23,285 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:42:23,285 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:42:23,285 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:42:23,285 - root - INFO - ********* TC_SearchCustomerByEmail_004 Finished ********
+2024-07-05 12:42:37,927 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:37,927 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:37,927 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:37,927 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:37,927 - root - INFO - *********** Test_004_SearchCustomerByEmail_004 *********
+2024-07-05 12:42:42,936 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:42,936 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:42,936 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:42,936 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:42,936 - root - INFO - ********* Login successful **********
+2024-07-05 12:42:42,936 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:42,936 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:42,936 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:42,936 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:42,936 - root - INFO - ********* Start Search customer test *********
+2024-07-05 12:42:45,468 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:42:45,468 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:42:45,468 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:42:45,468 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:42:45,468 - root - INFO - ***** Searching customer by FirstName **********
+2024-07-05 12:55:45,431 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:55:45,431 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:55:45,431 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:55:45,431 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:55:45,431 - root - INFO - *********** Test_003_AddCustomer *********
+2024-07-05 12:55:50,181 - root - INFO - ********* Login successful **********
+2024-07-05 12:55:50,181 - root - INFO - ********* Login successful **********
+2024-07-05 12:55:50,181 - root - INFO - ********* Login successful **********
+2024-07-05 12:55:50,181 - root - INFO - ********* Login successful **********
+2024-07-05 12:55:50,181 - root - INFO - ********* Login successful **********
+2024-07-05 12:55:50,181 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:55:50,181 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:55:50,181 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:55:50,181 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:55:50,181 - root - INFO - ********* Start Add customer test *********
+2024-07-05 12:55:54,042 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:55:54,042 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:55:54,042 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:55:54,042 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:55:54,042 - root - INFO - ***** Providing cutomer info **********
+2024-07-05 12:56:08,707 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:56:08,707 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:56:08,707 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:56:08,707 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:56:08,707 - root - INFO - ************** Verifying Test login Title *******************
+2024-07-05 12:56:14,921 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:56:14,921 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:56:14,921 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:56:14,921 - root - INFO - ************** Test login Title Passed *******************
+2024-07-05 12:56:14,921 - root - INFO - ************** Test login Title Passed *******************
+2024-07-15 10:30:09,484 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-15 10:30:09,493 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-15 10:30:52,159 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:31:13,817 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:31:35,509 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:31:57,136 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:31:57,262 - root - INFO - *** Login DDT test Failed ***
+2024-07-15 10:38:11,193 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-15 10:38:11,209 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-15 10:38:46,153 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:39:18,511 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:39:50,835 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:40:23,249 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:40:23,430 - root - INFO - *** Login DDT test Failed ***
+2024-07-15 10:41:47,272 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-15 10:41:47,309 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-15 10:42:21,543 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:42:53,767 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:43:25,907 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:43:58,077 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:43:58,226 - root - INFO - *** Login DDT test Failed ***
+2024-07-15 10:50:35,211 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-15 10:50:35,239 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-15 10:51:09,628 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:51:41,921 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:52:14,110 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:52:46,381 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 10:52:46,512 - root - INFO - *** Login DDT test Failed ***
+2024-07-15 11:17:29,355 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-15 11:17:29,366 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-15 11:18:04,038 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 11:18:36,293 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 11:19:08,511 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 11:19:40,768 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7330FEEA2+31554]
+	(No symbol) [0x00007FF733077ED9]
+	(No symbol) [0x00007FF732F3872A]
+	(No symbol) [0x00007FF732F88434]
+	(No symbol) [0x00007FF732F8853C]
+	(No symbol) [0x00007FF732FCF6A7]
+	(No symbol) [0x00007FF732FAD06F]
+	(No symbol) [0x00007FF732FCC977]
+	(No symbol) [0x00007FF732FACDD3]
+	(No symbol) [0x00007FF732F7A33B]
+	(No symbol) [0x00007FF732F7AED1]
+	GetHandleVerifier [0x00007FF733408B1D+3217341]
+	GetHandleVerifier [0x00007FF733455AE3+3532675]
+	GetHandleVerifier [0x00007FF73344B0E0+3489152]
+	GetHandleVerifier [0x00007FF7331AE776+750614]
+	(No symbol) [0x00007FF73308375F]
+	(No symbol) [0x00007FF73307EB14]
+	(No symbol) [0x00007FF73307ECA2]
+	(No symbol) [0x00007FF73306E16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:22:05,486 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-15 12:22:05,495 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-15 12:22:07,507 - root - INFO - Row 2 - Username: admin@yourstore.com, Password: admin
+2024-07-15 12:22:39,359 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:22:39,523 - root - INFO - Row 3 - Username: admin@yourstore.com, Password: admn
+2024-07-15 12:23:11,314 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:23:11,450 - root - INFO - Row 4 - Username: adm@yourstore.com, Password: admin
+2024-07-15 12:23:43,333 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:23:43,453 - root - INFO - Row 5 - Username: adm@yourstore.com, Password: and
+2024-07-15 12:24:15,408 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:24:15,544 - root - INFO - Row 6 - Username: None, Password: None
+2024-07-15 12:24:15,544 - root - ERROR - Username or password is None
+2024-07-15 12:24:15,544 - root - INFO - *** Login DDT test Failed ***
+2024-07-15 12:24:41,276 - root - INFO - ************** Test_002_DDT_Login *******************
+2024-07-15 12:24:41,300 - root - INFO - ************** Verifying login DDT Test *******************
+2024-07-15 12:24:43,404 - root - INFO - Row 2 - Username: admin@yourstore.com, Password: admin
+2024-07-15 12:25:15,279 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:25:15,387 - root - INFO - Row 3 - Username: admin@yourstore.com, Password: admn
+2024-07-15 12:25:47,188 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:25:47,326 - root - INFO - Row 4 - Username: adm@yourstore.com, Password: admin
+2024-07-15 12:26:19,183 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:26:19,312 - root - INFO - Row 5 - Username: adm@yourstore.com, Password: and
+2024-07-15 12:26:51,113 - root - ERROR - Exception occurred while clicking login: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF711B3EEA2+31554]
+	(No symbol) [0x00007FF711AB7ED9]
+	(No symbol) [0x00007FF71197872A]
+	(No symbol) [0x00007FF7119C8434]
+	(No symbol) [0x00007FF7119C853C]
+	(No symbol) [0x00007FF711A0F6A7]
+	(No symbol) [0x00007FF7119ED06F]
+	(No symbol) [0x00007FF711A0C977]
+	(No symbol) [0x00007FF7119ECDD3]
+	(No symbol) [0x00007FF7119BA33B]
+	(No symbol) [0x00007FF7119BAED1]
+	GetHandleVerifier [0x00007FF711E48B1D+3217341]
+	GetHandleVerifier [0x00007FF711E95AE3+3532675]
+	GetHandleVerifier [0x00007FF711E8B0E0+3489152]
+	GetHandleVerifier [0x00007FF711BEE776+750614]
+	(No symbol) [0x00007FF711AC375F]
+	(No symbol) [0x00007FF711ABEB14]
+	(No symbol) [0x00007FF711ABECA2]
+	(No symbol) [0x00007FF711AAE16F]
+	BaseThreadInitThunk [0x00007FFCCD137344+20]
+	RtlUserThreadStart [0x00007FFCCE1E26B1+33]
+
+2024-07-15 12:26:51,210 - root - INFO - Row 6 - Username: None, Password: None
+2024-07-15 12:26:51,210 - root - ERROR - Username or password is None
+2024-07-15 12:26:51,210 - root - INFO - *** Login DDT test Failed ***
